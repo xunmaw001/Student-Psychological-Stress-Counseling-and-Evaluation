@@ -1,0 +1,2 @@
+# Student-Psychological-Stress-Counseling-and-Evaluation
+基于Spring Boot和Vue的学生心理压力咨询评判系统旨在为学生提供心理健康评估和咨询服务。后端使用Spring Boot处理心理测评问卷和数据分析，确保信息安全；前端采用Vue.js，提供直观易用的界面，便于学生填写自评问卷并获取反馈。系统功能包括心理状态评估、压力源分析和个性化咨询建议，帮助学生识别心理压力，获得必要的支持和指导，从而促进学生的心理健康和学业发展。
